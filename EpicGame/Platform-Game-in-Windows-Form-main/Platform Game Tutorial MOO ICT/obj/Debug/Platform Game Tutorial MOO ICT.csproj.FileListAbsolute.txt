@@ -1,0 +1,21 @@
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.exe.config
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.pdb
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csprojAssemblyReference.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Form1.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Properties.Resources.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.GenerateResource.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Platform Game Tutorial MOO ICT\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.pdb
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.exe.config
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.exe
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\bin\Debug\Platform Game Tutorial MOO ICT.pdb
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.AssemblyReference.cache
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.SuggestedBindingRedirects.cache
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Form1.resources
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform_Game_Tutorial_MOO_ICT.Properties.Resources.resources
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.GenerateResource.cache
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.csproj.CoreCompileInputs.cache
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.exe
+F:\Platform-Game-in-Windows-Form-main\Platform Game Tutorial MOO ICT\obj\Debug\Platform Game Tutorial MOO ICT.pdb

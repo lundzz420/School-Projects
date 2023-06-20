@@ -1,0 +1,10 @@
+C:\Users\funne\source\repos\projektigrica\projektigrica\bin\Debug\projektigrica.exe.config
+C:\Users\funne\source\repos\projektigrica\projektigrica\bin\Debug\projektigrica.exe
+C:\Users\funne\source\repos\projektigrica\projektigrica\bin\Debug\projektigrica.pdb
+C:\Users\funne\source\repos\projektigrica\projektigrica\obj\Debug\projektigrica.csproj.AssemblyReference.cache
+C:\Users\funne\source\repos\projektigrica\projektigrica\obj\Debug\projektigrica.Form1.resources
+C:\Users\funne\source\repos\projektigrica\projektigrica\obj\Debug\projektigrica.Properties.Resources.resources
+C:\Users\funne\source\repos\projektigrica\projektigrica\obj\Debug\projektigrica.csproj.GenerateResource.cache
+C:\Users\funne\source\repos\projektigrica\projektigrica\obj\Debug\projektigrica.csproj.CoreCompileInputs.cache
+C:\Users\funne\source\repos\projektigrica\projektigrica\obj\Debug\projektigrica.exe
+C:\Users\funne\source\repos\projektigrica\projektigrica\obj\Debug\projektigrica.pdb

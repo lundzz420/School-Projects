@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fruit Flavored Sodas | Fanta®</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="mystyle.css">
+    <link rel="icon" type="image/png" href="fanta-favicon.png">
+</head>
+
+<body>
+<style>
+    
+    
+    
+    
+  .block {
+  display: block;
+  width: 50%;
+  border: none;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container4 {
+  display: flex;
+  justify-content: center;
+    }
+
+.container4 h3 {
+  text-align: center;
+    word-wrap: break-word;
+}   
+    }
+    
+    .background {
+        background-color: #fcb426; !important
+    }
+
+    .col {
+        width: 33%;
+        float: left;
+    }
+
+    .col a {
+        float: left;
+        width: 100%;
+        margin: 2px;
+    }
+
+    .footerButton {
+        background-color: #1947BA;
+        border-left: 2px solid white;
+        border-right: 2px solid white;
+        border-bottom: none;
+        border-top: none;
+        padding: 10px 0px;
+        text-align: center;
+        font-size: 16px;
+        margin: 2px 6px;
+        cursor: pointer;
+    }
+
+    .navbar-nav a {
+        font-family: sans-serif !important;
+        font-weight: bold;
+    }
+
+    .navbar-custom {
+        height: 90px;
+    }
+
+    .cn {
+        background-color: #FF9700;
+    }
+
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: #1947BA;
+        color: white;
+        text-align: center;
+    }
+
+    .footer1 {
+        position: fixed;
+        left: 0;
+        top: 650px;
+        bottom: 77px;
+        width: 100%;
+        background-color: #ff9700;
+        color: white;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .logo-image img {
+        width: 100px;
+        height: 46px;
+        overflow: hidden;
+        margin-top: 5px;
+        margin-left: 10px;
+        margin-bottom: 32px;
+    }
+
+    footer {
+        text-align: center;
+        padding: 3px;
+        background-color: White;
+        color: white;
+        font-weight: bold;
+        position: fixed;
+    }
+
+    .footerButton:hover {
+        color: #ff9700;
+    }
+
+    li:hover.text {
+        border-bottom: 5px solid blue;
+        background: #ff9700;
+    }
+
+    img.l {
+        margin-top: -250px;
+        width: 100%;
+    }
+
+    img:hover.op {
+        opacity: 0.1;
+    }
+
+    .dropbtn {
+        background-color: #04AA6D;
+        color: white;
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: white;
+        min-width: 100px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        color: black;
+        padding: 24px 12px;
+        text-decoration: none;
+        display: block;
+    }
+
+    .dropdown-content a:hover {
+        background-color: white;
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+        background-color: white;
+    }
+
+    a:hover.j {
+        color: red;
+    }
+
+    .container1 {
+        position: relative;
+        display: inline-block;
+    }
+
+    .text-overlay1 {
+        position: absolute;
+        top: 400px;
+        right: 1080px;
+        width: 550px;
+        height: 470px;
+    }
+
+    .social-icons {
+        display: flex;
+        justify-content: center;
+    }
+
+    .social-icon {
+        display: block;
+        margin: 10px;
+    }
+
+    .social-icon img {
+        width: 40px;
+        height: 40px;
+    }
+</style>
+
+<!-- NAVBAR -->
+
+<nav class="navbar navbar-custom cn" style="z-index: 1000;">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="/">
+                <div class="logo-image">
+                    <img src="photos/fantanavbar.png" class="img-fluid">
+                </div>
+            </a>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
+        <ul class="nav navbar-nav">
+            <li class="text"><a href="#" style="color: blue; margin: 17px; background-color: #ff9700;">PRODUCTS</a></li>
+            <li class="text"><a href="#" style="color: blue; margin: 17px; background-color: #ff9700;">SHOP NOW</a></li>
+        </ul>
+        <div>
+            <div class="dropdown" style="float: right; margin: 14px;">
+                <ul>
+                    <li style="list-style-type: none"><button style="background-color: #ff9700; border: none;"><img src="icon/si.png" alt="Loading" height="24" width="24" style="margin: 18px;" class="op"></button></li>
+                </ul>
+                <div class="dropdown-content">
+                    <a href="#" class="j" style="text-align: center;">ACCOUNT SIGN IN</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<br><br><br>
+<!-- PHOTOS -->
+
+<div class="container1">
+    <img src="photos/bgimage.jpg" alt="Loading..." class="l">
+    <div class="text-overlay1">
+        <img src="photos/newtatse.png" alt="Loading..." class="l">
+    </div>
+</div>
+ 
+    <!--header-->
+    
+<div class="container4">  
+    <div class="column">
+<br><br><br><br><br><br>
+<h1 class="font-weight-bold" style="color:#1947ba"> GIVE YOUR THIRST A TASTE</h1>
+    <p3>Ready to submit to the fizziest fizz? Treat your senses and try the irresistible taste our new take on a classic flavor.</p3>
+        <button class="block" type="button" style="background-color: orange; "><a href="https://www.fanta.com/products/orange">FIND A FANTA NEAR YOU</a></button>
+        <img src="photos/opetpunofante.png" alt="dfhgsudih">
+    </div> 
+    </div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+     
+    
+    
+    
+    
+<!-- FOOTER 2 -->
+
+<div class="footer">
+    <p>© 2023 The Coca-Cola Company. All Rights Reserved</p>
+    <button type="button" class="footerButton">
+        Support Center
+    </button>
+    <button type="button" class="footerButton">
+        Contact us
+    </button>
+    <button type="button" class="footerButton">
+        Terms
+    </button>
+    <button type="button" class="footerButton">
+        Privacy
+    </button>
+    <button type="button" class="footerButton">
+        California Notice at Collection
+    </button>
+    <button type="button" class="footerButton">
+        Do Not Sell or Share My Personal Information
+    </button>
+    <button type="button" class="footerButton">
+        Sitemap
+    </button>
+    <button type="button" class="footerButton">
+        Slp and Scan
+    </button>
+    <button type="button" class="footerButton">
+        Rules
+    </button>
+</div>
+
+<!-- FOOTER 1 -->
+
+<div class="footer1">
+    <div class="col">
+        <h2 class="font-weight-bold" style="color: #1947ba">CONNECT WITH US</h2>
+
+        <div class="social-icons">
+            <a href="https://www.facebook.com/fantahr/?brand_redir=1723086137922986" class="social-icon">
+                <img src="icon/facebookicon.png" alt="Facebook">
+            </a>
+            <a href="https://www.youtube.com/user/fanta" class="social-icon">
+                <img src="icon/youtubeicon.png" alt="Youtube">
+            </a>
+            <a href="https://twitter.com/fanta" class="social-icon">
+                <img src="icon/twittericon.png" alt="Twitter">
+            </a>
+            <a href="https://www.instagram.com/fanta/" class="social-icon">
+                <img src="icon/instagramicon.png" alt="Instagram">
+            </a>
+        </div>
+    </div>
+
+    <div class="col">
+        <h2 class="font-weight-bold" style="color: #1947ba">FANTA FLAVOURS</h2>
+        <p>
+            <a style="color: black" href="https://www.fanta.com/products/orange">FANTA ORANGE</a>
+        </p>
+        <p>
+            <a style="color: black" href="https://www.fanta.com/products/zero-sugar">FANTA ORANGE ZERO SUGAR</a>
+        </p>
+        <p>
+            <a style="color: black" href="https://www.fanta.com/products/pineapple">FANTA PINEAPPLE</a>
+        </p>
+        <p>
+            <a style="color: black" href="https://www.fanta.com/products/strawberry">FANTA STRAWBERRY</a>
+        </p>
+    </div>
+
+  <div class="container">
+  <div class="column">
+        <p>
+            <a style="color: black" href="https://www.fanta.com/products/grape">FANTA GRAPE</a>
+        </p>
+        <p>
+            <a style="color: black" href="https://www.fanta.com/products/peach">FANTA PEACH</a>
+        </p>
+        <p>
+            <a style="color: black" href="https://www.fanta.com/products/berry">FANTA BERRY</a>
+        </p>
+        <p>
+            <a style="color: black" href="https://www.fanta.com/products/pina-colada">FANTA PIÑA COLADA</a>
+        </p>
+    </div>
+    </div>
+
+</div>
+
+</body>
+
+</html>
